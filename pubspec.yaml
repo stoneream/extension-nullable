@@ -1,6 +1,7 @@
 name: extension_nullable
-description: A starting point for Dart libraries or applications.
+description: extends nullable
 version: 1.0.0
+repository: https://github.com/stoneream/extension-nullable
 # homepage: https://www.example.com
 
 environment:
