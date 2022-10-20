@@ -3,6 +3,10 @@
 ## usage
 
 ```dart
+String louder(String s) {
+  return "$s !!";
+}
+
 // map
 final String? s1 = "hoge";
 final String? s2 = null;
