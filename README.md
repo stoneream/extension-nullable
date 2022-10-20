@@ -27,3 +27,14 @@ final res2 = s2.fold("expect", louder);
 expect(res1, equals("hoge !!"));
 expect(res2, equals("expect"));
 ```
+
+## installation
+
+pubspec.yamlに以下を追記
+
+```
+dependencies:
+  extension_nullable:
+    git:
+      url: https://github.com/stoneream/extension-nullable
+```
