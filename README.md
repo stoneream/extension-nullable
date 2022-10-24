@@ -21,3 +21,5 @@ final String? s2 = null;
 final res1 = s1.fold("unexpect", louder); // hoge !!
 final res2 = s2.fold("expect", louder); // expect
 ```
+
+todo そのうちpubに自動的に上がるように設定したい
